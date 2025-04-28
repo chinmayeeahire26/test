@@ -1,4 +1,2 @@
 def greet():
-    print('Hello from GitHub Upload!')
-
-greet()
+    print('Updated this method greet')
