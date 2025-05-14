@@ -1,5 +1,4 @@
-public class MyClass {
-    public void myMethod() {
-        System.out.println("hello github");
-    }
+public class MyClass {public void myMethod() {
+    System.out.println("updated hello github");
+}
 }
