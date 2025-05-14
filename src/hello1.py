@@ -1,2 +1,3 @@
 def my_method():
-    print("hello github")
+    def my_method():
+    print("updated hello github")
